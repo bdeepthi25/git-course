@@ -5,3 +5,5 @@ Create an avatar for user
 login and logout
 
 main v1
+
+main v2
