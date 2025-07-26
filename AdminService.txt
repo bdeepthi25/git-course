@@ -2,7 +2,7 @@ create and remove users
 change the roles
 
 manage database
-closing the connections
+closing the database connections
 
 feature3 v1
 feature3 v2
